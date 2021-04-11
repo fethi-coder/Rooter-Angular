@@ -1,0 +1,22 @@
+body{
+    background-color: burlywood;
+}
+ul{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+li{
+    width: 20%;
+    list-style: none;
+    text-decoration: none;
+}
+
+p{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
